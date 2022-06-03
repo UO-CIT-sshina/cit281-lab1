@@ -1,6 +1,6 @@
 /*
     CIT 281 Lab 1
-    Name: Shinault
+    Name: sshina
 */
 function square(num) {
     return num*num;
