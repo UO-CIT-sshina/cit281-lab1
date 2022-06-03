@@ -1,0 +1,18 @@
+ Volume in drive C is OS
+ Volume Serial Number is D6C3-B2D7
+
+ Directory of C:\Users\Chicken Nugget\Documents\cit281
+
+03/31/2022  04:24 PM    <DIR>          .
+03/31/2022  04:24 PM    <DIR>          ..
+03/31/2022  04:24 PM                 0 lab-01-folders.txt
+03/31/2022  04:24 PM    <DIR>          p1
+03/31/2022  04:20 PM    <DIR>          p2
+03/31/2022  04:20 PM    <DIR>          p3
+03/31/2022  04:20 PM    <DIR>          p4
+03/31/2022  04:20 PM    <DIR>          p5
+03/31/2022  04:20 PM    <DIR>          p6
+03/31/2022  04:20 PM    <DIR>          p7
+03/31/2022  04:20 PM    <DIR>          p8
+               1 File(s)              0 bytes
+              10 Dir(s)  10,121,625,600 bytes free

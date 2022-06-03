@@ -1,0 +1,15 @@
+Copy selected text to clipboard (copy/paste buffer)    CTRL+C
+Paste from buffer                                      CTRL+V
+Cut selected text to buffer (selected text is deleted) CTRL+X
+Save current file in VSCode                            CTRL+S
+Toggle block comment in VSCode                    SHIFT+ALT+A
+Toggle line comment in VSCode                          CTRL+/
+Move cursor from word to word right                CTRL+RIGHT
+Move cursor from word to word left                  CTRL+LEFT
+Select word right                             SHIFT+ALT+RIGHT
+Select word left                               SHIFT+ALT+LEFT
+Select all contents                                    CTRL+A
+Select current line, including end of line character   CTRL+L
+Jump to start of line                                    HOME
+Jump to end of line                                       END
+Jump to beginning of current file                   CTRL+HOME
