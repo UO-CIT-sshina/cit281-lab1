@@ -6,3 +6,7 @@ Created folders through CLI <br />
 
 Using js in CLI with node <br />
 ![image](https://github.com/UO-CIT-sshina/cit281-lab1/blob/main/lab-01-node.png?raw=true)
+
+Using JS and a command line interface (Windows Command Prompt)
+
+I learned a lot about CLI and keyboard shortcuts
